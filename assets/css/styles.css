@@ -107,15 +107,6 @@ body{
     background-color: var(--cor_terciaria);
 }
 
-.imagem{
-    margin-right: 10%;
-    width: 30%;
-    border: solid var(--cor_terciaria);
-    border-radius: 20px;
-    
-
-}
-
 .apresentacao_conteudo_subtitulo{
     font-family: var(--fonte);
     font-weight: 400;
@@ -170,8 +161,6 @@ button:hover {
     background-color: var(--cor_primaria);
     color: var(--cor_secundaria);
 }
-
-
 
 .rodape{
     color: var(--cor_primaria);
